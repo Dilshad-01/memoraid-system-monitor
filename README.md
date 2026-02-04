@@ -51,5 +51,5 @@ npm run dev
 MIT
 
 
-Author: Mohamed Dilshad KP
-Repository: https://github.com/Dilshad-01/memoraid-system-monitor.git
+**Author:** Mohamed Dilshad KP  
+**Repository:** https://github.com/Dilshad-01/memoraid-system-monitor.git
