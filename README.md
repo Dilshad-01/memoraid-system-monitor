@@ -47,9 +47,11 @@ npm run dev
 2. Start the Frontend: `npm run dev` (Runs on http://localhost:5173)
 3. Open browser to `http://localhost:5173`
 
-## License
-MIT
+## 👨‍💻 Author
 
+**Mohamed Dilshad KP**
 
-**Author:** Mohamed Dilshad KP  
-**Repository:** https://github.com/Dilshad-01/memoraid-system-monitor.git
+- GitHub: https://github.com/Dilshad-01
+- LinkedIn: https://www.linkedin.com/in/mdilshadkp
+- Repository: https://github.com/Dilshad-01/memoraid-system-monitor.git
+If you found this project helpful, consider giving it a ⭐ on GitHub.
